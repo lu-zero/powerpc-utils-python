@@ -1,7 +1,7 @@
 powerpc-utils-python package
-==========================
+============================
 
-This package contains Pthon based utilities which are intended for maintenance
+This package contains Python-based utilities which are intended for maintenance
 of IBM powerpc platforms.
 
 amsvis:
